@@ -20,6 +20,11 @@ img{
 }
 a{
     color: yellow;
+    /* color: whitesmoke; */
+    /* text-shadow: turquoise; */
+
+    
+    /* background-color: violet; */
 }
 a:hover{
     text-decoration: none;
@@ -83,7 +88,8 @@ header{
     /* background-color: #84c4dc; */
 }
 .projects a{
-    color: teal;
+    /* color: teal; */
+    color:yellowgreen
 }
 .projects .btn{
     color: rgb(141, 34, 141);
@@ -175,4 +181,8 @@ footer{
     h1,h2{
         line-height: 1;
     }
+
+}
+li{
+    padding: 10px;
 }
